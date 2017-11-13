@@ -14,7 +14,7 @@ They are explained in a readme file in the release zip.
 Open cmd in the folder with the python script(afkbot1.py) make sure the config file is in that folder as well. type "python afkbot1.py" into cmd and it will run.
 
 
-Donate via bitcoin or payal for continued development 
+# Donate via bitcoin or payal if you want
 
 Bitcoin address : 1HdwLpdB47TkSJrr1X5sPHnioH5ssJbdMW 
 
